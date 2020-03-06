@@ -8,7 +8,6 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import java.util.Arrays;
 
 /**
- * Copyright (C), 2019, 上海昌投网络科技有限公司
  * FileName: MainTest
  *
  * @author: yufeng
